@@ -76,8 +76,15 @@ margin:16px 0 0 5px;
 margin:20px 0 0 190px;
 }
 
-
-
+#mainnav .alta_auto label{
+  text-align:right;
+  margin: 8px 10px 0 0;
+  width:150px;
+}
+#mainnav .alta_auto textarea{
+  height:100px;
+  width:200px;
+}
 #rightsidebar
 {
 background-color:#90C140;
@@ -133,4 +140,58 @@ text-indent:20px;
 .clear
   {
     clear:both;
-  }    
+  }
+.m-left-1{
+  margin-left: 10px !important;
+}
+.m-left-2{
+  margin-left:20px !important;
+}
+.m-left-3{
+  margin-left:30px !important;
+}
+.m-left-4{
+  margin-left:40px !important;
+}
+.m-left-5{
+  margin-left:50px !important;
+}
+.m-left-6{
+  margin-left:60px !important;
+}
+.m-left-7{
+  margin-left:70px !important;
+}
+.m-left-8{
+  margin-left:80px !important;
+}
+.m-left-9{
+  margin-left:90px !important;
+}
+.m-left-10{
+  margin-left:100px !important;
+}
+.m-left-11{
+  margin-left:110px !important;
+}
+.m-left-12{
+  margin-left:120px !important;
+}
+.m-left-13{
+  margin-left:130px !important;
+}
+.m-left-14{
+  margin-left:140px !important;
+}
+.m-left-15{
+  margin-left:150px !important;
+}
+.m-left-18{
+  margin-left:180px !important;
+}
+.m-left-28{
+  margin-left:280px !important;
+}
+.m-left-30{
+  margin-left:300px !important;
+}  
